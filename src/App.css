@@ -6,7 +6,7 @@
 .scoreboard {
   width: 58%;
   margin: 2rem auto;
-  background-color: #0b5402;
+  background-color: goldenrod;
   color: white;
   border-radius: 0.5rem;
   padding: 5rem;
@@ -33,11 +33,11 @@
 }
 
 .home {
-  background-color: #656565;
+  background-color: magenta;
 }
 
 .away {
-  background-color: #af750a;
+  background-color: maroon;
 }
 
 .home__name,
@@ -48,7 +48,8 @@
 .quarter__title {
   text-transform: uppercase;
   font-size: 3rem;
-  padding: 2rem;
+  padding: 1rem;
+  text-align: center;
 }
 
 .home__score,
